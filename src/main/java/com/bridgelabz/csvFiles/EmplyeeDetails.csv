@@ -1,2 +1,4 @@
-SNo	 Name				 Age	 Department
-1	 Naman Malhotra 	 21 	 CSE
+SNo,Name,Age,Department,Salary
+1,Naman Malhotra,21,CSE,2000000
+2,Manvi Grover,22,CSE,2200000
+3,NM,21,IT,2500000
