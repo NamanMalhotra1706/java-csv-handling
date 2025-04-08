@@ -1,3 +1,9 @@
 ID,Name,Age,CGPA
+# This file contains student CGPA records
+# 9.33 -> Excellent CGPA
+# 8.99 -> Very good CGPA
 2110990913,Naman Malhotra,21,9.33
 2110990862,Manvi Grover,22,8.99
+
+2110990913,NM,21,80
+2110990862,MG,22,92
